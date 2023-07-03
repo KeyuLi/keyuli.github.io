@@ -1,0 +1,8 @@
+@inproceedings{li2020feature,
+  title={Feature Space Based Loss for Face Photo-Sketch Synthesis},
+  author={Li, Keyu and Wang, Nannan and Gao, Xinbo},
+  booktitle={Chinese Conference on Pattern Recognition and Computer Vision (PRCV)},
+  pages={374--385},
+  year={2020},
+  organization={Springer}
+}

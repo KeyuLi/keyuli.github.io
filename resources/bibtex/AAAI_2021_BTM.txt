@@ -1,0 +1,9 @@
+@inproceedings{jiang2021training,
+  title={Training binary neural network without batch normalization for image super-resolution},
+  author={Jiang, Xinrui and Wang, Nannan and Xin, Jingwei and Li, Keyu and Yang, Xi and Gao, Xinbo},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={2},
+  pages={1700--1707},
+  year={2021}
+}

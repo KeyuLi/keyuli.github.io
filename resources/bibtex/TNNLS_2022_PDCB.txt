@@ -1,0 +1,7 @@
+@article{jiang2022toward,
+  title={Toward pixel-level precision for binary super-resolution with mixed binary representation},
+  author={Jiang, Xinrui and Wang, Nannan and Xin, Jingwei and Li, Keyu and Yang, Xi and Li, Jie and Gao, Xinbo},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  publisher={IEEE}
+}

@@ -1,0 +1,7 @@
+@article{li2022local,
+  title={Local means binary networks for image super-resolution},
+  author={Li, Keyu and Wang, Nannan and Xin, Jingwei and Jiang, Xinrui and Li, Jie and Gao, Xinbo and Han, Kai and Wang, Yunhe},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  publisher={IEEE}
+}
